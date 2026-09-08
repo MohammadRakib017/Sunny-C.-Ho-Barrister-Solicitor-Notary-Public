@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sunny C. Ho, Barrister \u0026 Solicitor, Notary Public copy",
+  "description": "Professional legal counsel in Richmond Hill, Ontario, specializing in family law, criminal defense, civil litigation, real estate, and notary services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
